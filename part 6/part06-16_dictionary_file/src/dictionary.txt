@@ -1,0 +1,3 @@
+roski,garbage
+laukku,bag
+kissa,cat
